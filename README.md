@@ -18,7 +18,7 @@ Capybara.configure do |config|
     config.default_driver = :selenium_chrome
 end
 
->>INSTALANDO O BUNDLER (GERENCIADOR DE DEPENDÊNCIAS)
+INSTALANDO O BUNDLER (GERENCIADOR DE DEPENDÊNCIAS)
 Instalando o Blunder
 1º No Console do Cmder, digite o comando:
 gem install bundler
