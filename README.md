@@ -7,6 +7,7 @@
 * Clicar em reload
 * CTRL + shift + P, digitar 'file icon', e selecionar a opção 'File icon theme > VSCode icons'
 * CTRL + shift + P, digitar 'Color Theme', selecionar a opção 'One Dark Pro'
+________________________________________________________________________________________________________________________________________
 
 #CONFIGURAR CHROME DRIVER:
 1º Baixar o driver do Chrome: https://sites.google.com/a/chromium.org/chromedriver/downloads
@@ -17,11 +18,14 @@
 Capybara.configure do |config|
     config.default_driver = :selenium_chrome
 end
+________________________________________________________________________________________________________________________________________
 
 #INSTALANDO O BUNDLER (GERENCIADOR DE DEPENDÊNCIAS)
 Instalando o Blunder
 1º No Console do Cmder, digite o comando:
 gem install bundler
+
+________________________________________________________________________________________________________________________________________
 
 #CRIANDO UM PROJETO!
 1º -> Criar uma pasta no CMDER (comando mkdir <nome_da_pasta>)
