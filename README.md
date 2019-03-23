@@ -1,5 +1,5 @@
 
-EXTENSÕES PARA O VSCODE:
+#EXTENSÕES PARA O VSCODE:
 - Ruby (Peng Lv)
 - Cucumber (Steve Purves)
 - vs code icons (Roberto Huertas)
@@ -8,7 +8,7 @@ EXTENSÕES PARA O VSCODE:
 * CTRL + shift + P, digitar 'file icon', e selecionar a opção 'File icon theme > VSCode icons'
 * CTRL + shift + P, digitar 'Color Theme', selecionar a opção 'One Dark Pro'
 
-CONFIGURAR CHROME DRIVER:
+#CONFIGURAR CHROME DRIVER:
 1º Baixar o driver do Chrome: https://sites.google.com/a/chromium.org/chromedriver/downloads
 2º Crie uma pasta ‘webdriver’ na raiz do C:/)
 3º Editar a variável de ambiente 'Path' colocando o caminho onde está o chrome driver: C:\webdriver (o chromedriver está dentro dessa pasta)
@@ -18,12 +18,12 @@ Capybara.configure do |config|
     config.default_driver = :selenium_chrome
 end
 
-INSTALANDO O BUNDLER (GERENCIADOR DE DEPENDÊNCIAS)
+#INSTALANDO O BUNDLER (GERENCIADOR DE DEPENDÊNCIAS)
 Instalando o Blunder
 1º No Console do Cmder, digite o comando:
 gem install bundler
 
-CRIANDO UM PROJETO!
+#CRIANDO UM PROJETO!
 1º -> Criar uma pasta no CMDER (comando mkdir <nome_da_pasta>)
 
 2º Criar dependências:
