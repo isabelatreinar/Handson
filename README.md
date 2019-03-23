@@ -1,5 +1,5 @@
-# handson
->>EXTENSÕES PARA O VSCODE:
+
+EXTENSÕES PARA O VSCODE:
 - Ruby (Peng Lv)
 - Cucumber (Steve Purves)
 - vs code icons (Roberto Huertas)
