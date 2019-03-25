@@ -10,7 +10,7 @@ Contexto: Acessar pagina de registro
 
 @cadastro_sucesso
 Cenário: Cadastro
-  Quando realizo o meu cadastro com os dados 'bbb', '123456' e 'bbb@mail.com'
+  Quando realizo o meu cadastro com os dados 'bianca444', '123456' e 'bianca4444@mail.com'
   Então deve aparecer uma mensagem de sucesso 
   """
   SUCCESS! You have been registered. Please verify your email address before logging in.
